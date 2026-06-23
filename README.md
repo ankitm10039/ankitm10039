@@ -12,7 +12,7 @@
 > *"An enthusiastic and highly energetic professional with expertise in technical development, focused on creating high-revenue generating products."*
 
 - 🔭 Currently working as **Senior Analyst** at **Pibythree Consulting Pvt Ltd**
-- 💼 **5.3+ years** of experience in Full Stack Software Development
+- 💼 **5.5+ years** of experience in Full Stack Software Development
 - 🧠 Deep expertise in **Vue.js, React.js, Quasar** frameworks throughout SDLC
 - 🤝 Leading technical & design discussions across cross-functional teams
 - 🏗️ Providing technical consulting on **architectural design & API integration**
